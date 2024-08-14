@@ -20,4 +20,10 @@ Criei uma arte para a capa do livro no **Leonardo IA** com a tematica de revolu�
 Criar esse E-book/Audiobook fez eu conhecer ferramentas novas, como as IA generativas **Leonardo IA** e **ElevenLabs** e ter o desafio de aprender e refinar a engenharia do prompt de comando no **ChatGPT** e principalmente no **Leonardo IA**.
 
 ## 🚀 Resultado Final
-O resultado final pode ser encontrado no repositório [`E-book_AudioBook`](https://github.com/marcaocamargo/lab-natty-or-not/tree/main/E-book_AudioBook).
+O resultado final pode ser encontrado completo no repositório [`E-book_AudioBook`](https://github.com/marcaocamargo/lab-natty-or-not/tree/main/E-book_AudioBook) com o E-book, AudioBook e a capa do livro.  
+**[Clique aqui](https://on.soundcloud.com/QCN9cNQE3GxBWcQ89)** para escutar o AudioBook.
+
+
+
+
+
