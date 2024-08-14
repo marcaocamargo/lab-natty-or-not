@@ -21,7 +21,7 @@ Criar esse E-book/Audiobook fez eu conhecer ferramentas novas, como as IA genera
 
 ## 🚀 Resultado Final
 O resultado final pode ser encontrado completo no repositório [`E-book_AudioBook`](https://github.com/marcaocamargo/lab-natty-or-not/tree/main/E-book_AudioBook) com o E-book, AudioBook e a capa do livro.  
-**[Clique aqui](https://on.soundcloud.com/QCN9cNQE3GxBWcQ89)** para escutar o AudioBook.
+**[Clique aqui](https://on.soundcloud.com/QCN9cNQE3GxBWcQ89)** para ouvir o AudioBook.
 
 
 
